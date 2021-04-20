@@ -5,7 +5,7 @@ number of moves to get from cell A to cell B on the table. In each move, we can 
 right, go left, go up, or go down one cell in the table. We cannot make a diagonal move. Also,
 we can only move to a cell if the cell is not blocked, and if we do not leave the table.
 
-##Input Format
+## Input Format
 The first line of the input contains a positive integer 𝑛. In the next lines, the city is described as
 an 𝑛 × 𝑛 table. There are 𝑛 lines where each line has 𝑛 characters. Each character is one of the
 following:
@@ -14,7 +14,7 @@ following:
 3) An 'A' shows the starting point.
 4) A 'B' shows the destination.
 
-##Constraints
+## Constraints
 
 1) 1 < 𝑛 ≤ 1000
 2) There is exactly one 'A' cell and one 'B' cell in the input.
