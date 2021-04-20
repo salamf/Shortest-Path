@@ -1,10 +1,3 @@
-""" CSC 225: Fall 2021
-  ' Programming Assignment: Mictoria's Maze
-  ' Name: Salam Fazil
-  ' ID: V00935894
-  ' :)
-"""
-
 import sys
 from Graph import Graph
 
