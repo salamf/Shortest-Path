@@ -1,7 +1,7 @@
 # Shortest-Path
 
 A city is modeled as a two dimensional table. This program gets the minimum
-number of moves to get from cell A to cell B on the table. In each move, we can either go
+number of moves to get from cell A to cell B on the table using a graph data structure. In each move, we can either go
 right, go left, go up, or go down one cell in the table. We cannot make a diagonal move. Also,
 we can only move to a cell if the cell is not blocked, and if we do not leave the table.
 
